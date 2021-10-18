@@ -1,0 +1,7 @@
+  Stateless and stateful
+
+stateless : Stateless widgets has no internal state
+                 no widget redrawing
+
+Stateful :  Stateful widgets has internal state widget 
+              redrewing happening
